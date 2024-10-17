@@ -1,0 +1,10 @@
+git clone https://github.com/YourGitHubUsername/MyFirstPullRequest.git
+cd MyFirstPullRequest
+# Stage the file
+git add JS78.txt
+
+# Commit the file
+git commit -m "Added my unique identifier file (JS78.txt)"
+
+# Push the changes
+git push origin main
